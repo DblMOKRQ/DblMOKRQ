@@ -1,31 +1,27 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
+# Hi, I'm Ravil! 👋
 
-</body>
-</html>
 
-<!--
-**DblMOKRQ/DblMOKRQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
+[![Telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ree_eeQ)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+### Backend Go Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Work Experience: 1.5 years*
+
+
+
+Ключевые навыки и опыт:
+
+* Разработка на языке Go: 1,5 года опыта в создании надёжных и масштабируемых решений на Go 🔧
+* Работа с API: хорошее понимание принципов работы с Rest API и gRPC, могу легко и эффективно взаимодействовать с различными сервисами и системами 🌐
+* Базы данных: опыт работы с PostgreSQL и SQLite 💾
+* Linux: 2 года опыта работы в операционной системе Linux, могу без проблем настроить и оптимировать рабочие среды 🐧
+* Программирование на Python и C++: владею этими языками на уверенном уровне
+* Алгоритмы и сети: глубокие знания в области алгоритмов и сетевых технологий 📡
+
+
+## 🛠 Skills
+Go, RestAPI, gRPC, Linux, PostgreSQL, SQLite, Python, C++
+
