@@ -30,4 +30,4 @@ Go, RestAPI, gRPC, Linux, PostgreSQL, SQLite, Python, C++
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DblMOKRQ)](https://git.io/streak-stats)
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DblMOKRQ&theme=dark)](https://git.io/streak-stats)
