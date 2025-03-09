@@ -25,9 +25,9 @@
 ## 🛠 Skills
 Go, RestAPI, gRPC, Linux, PostgreSQL, SQLite, Python, C++
 
-## Others
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DblMOKRQ)](https://git.io/streak-stats)
 
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DblMOKRQ&theme=dark)](https://git.io/streak-stats)
+
+### Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/DblMOK)]([https://leetcode.com/DblMOK])
