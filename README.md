@@ -52,7 +52,7 @@ Backend-разработчик на Go с 3+ годами опыта. Специ
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DblMOKRQ&theme=dark)](https://git.io/streak-stats)
 -->
-<!-- ### Leetcode Stats
+### Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DblMOK)]([https://leetcode.com/DblMOK])
--->
+
 
